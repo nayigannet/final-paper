@@ -1,0 +1,28 @@
+body{
+    background-color: azure;
+    /* background-image: url("Background.webp"); */
+}
+/* .head{
+    display: flex;
+    flex-direction: row;
+} */
+.images{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+}
+h1{
+    color: palevioletred;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 250px;
+}
+.links{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #808cc8;
+}
+.heading{
+    border: 12px solid greenyellow;
+    text-align: center;
+}
